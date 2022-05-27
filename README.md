@@ -29,7 +29,7 @@ The Hotel has 119390 customers data, according to previous year's data. This ana
 - **normalization** to get the **average** number of orders in a `month` in different`years`
 -  Sort data by `month`	
 
-( masukan gambar )
+![](Images/1.jpg)
 
 insight found:
 Due to the ending of the holiday season, City Hotel have seen a significant drop in August and September. This indicates that the holiday season has a significant impact on the hotel cancellation rate. However, the increase in the booking rate is during the holiday season. Resort hotels appear to be having the same issue, but the pace of growth and fall is less drastic and more stable. 
@@ -39,7 +39,7 @@ Due to the ending of the holiday season, City Hotel have seen a significant drop
  - **Aggregating** data to get duration of `stay` based on `hotel type`
  - **grouping** data based on observations of data distribution
  
-(Masukan Gambar)
+![](Images/2.jpg)
 
 insight found: 
 The longer the total number of nights booked, the higher the proportion of bookings that are canceled.  also, City Hotel has a steeper tendency than Resort Hotel.  This can indicate that there is customer dissatisfaction with hotel services.
@@ -48,6 +48,8 @@ The longer the total number of nights booked, the higher the proportion of booki
 
  - Categorize the `lead_time` column to make it simpler
  - Implement data **aggregation** to calculating the amount of bookings based on the created `lead tim`e group and `hotel type`
+ 
+ ![](Images/3.jpg)
  
 insight found:
 The canceled ratio at Resort Hotel is pretty stable (about 40%), however the canceled ratio at City Hotel is extremely high (above 60%) with leads time of around a year.  The higher the booking length, the more probably customers are to cancel the booking. However, the lesser the order length, the lower the chance of cancellation.
