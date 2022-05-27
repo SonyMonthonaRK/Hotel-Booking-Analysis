@@ -2,7 +2,7 @@
 
 # Problem Statement & Objective
 
-In this analysis, my team was asked to analyze hotel booking performance, the hotel wants to improve hotel performance by analyzing data from the previous year. This analysis is important because the hotel wants to choose the right policy to reduce the rate of customers canceling orders.
+In this analysis, i was asked to analyze hotel booking performance, the hotel wants to improve hotel performance by analyzing data from the previous year. This analysis is important because the hotel wants to choose the right policy to reduce the rate of customers canceling orders.
 
 # Problem Questions
 
